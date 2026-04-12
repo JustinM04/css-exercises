@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+
+.alt-row {
+    background-color: lightpink;
+    font: Verdana, 'DejaVu Sans', sans-serif;
+}
