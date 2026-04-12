@@ -3,7 +3,7 @@
 div {
     color: white;
     background-color: red;
-    font: 32px;
+    font-size: 32px;
     font-weight: bold;
     text-align: center;
     
@@ -12,10 +12,10 @@ div {
 p {
     background-color: green;
     color: white;
-    font: 18px;
+    font-size: 18px;
 }
 
 button {
     background-color: orange;
-    font: 18px;
+    font-size: 18px;
 }
